@@ -1,0 +1,309 @@
+{
+  "Files": [
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebsiteBanHang.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebsiteBanHang.bundle.scp.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\images\\0b973b0b-4b96-4ebf-8184-e495474037c5_images.png",
+      "PackagePath": "staticwebassets\\images\\0b973b0b-4b96-4ebf-8184-e495474037c5_images.png"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\images\\24da3d56-8ecf-4bcf-bda1-b0b10c141052_i.png",
+      "PackagePath": "staticwebassets\\images\\24da3d56-8ecf-4bcf-bda1-b0b10c141052_i.png"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\images\\8485da21-51b9-4f56-aa0e-744442749ddf_images (2).jfif",
+      "PackagePath": "staticwebassets\\images\\8485da21-51b9-4f56-aa0e-744442749ddf_images (2).jfif"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\images\\955ddff2-67dc-46c9-99d1-bea11d5965b4_images.jfif",
+      "PackagePath": "staticwebassets\\images\\955ddff2-67dc-46c9-99d1-bea11d5965b4_images.jfif"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\images\\c6197cad-5135-4625-acc2-938e7ac86d0c_images (1).jfif",
+      "PackagePath": "staticwebassets\\images\\c6197cad-5135-4625-acc2-938e7ac86d0c_images (1).jfif"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\images\\d21c5454-5b94-49b5-810f-30dab8008bcd_images.png",
+      "PackagePath": "staticwebassets\\images\\d21c5454-5b94-49b5-810f-30dab8008bcd_images.png"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\images\\dcaf4fcf-3542-43f3-9bde-0f78768f86b8_images.png",
+      "PackagePath": "staticwebassets\\images\\dcaf4fcf-3542-43f3-9bde-0f78768f86b8_images.png"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\images\\e819d1cb-71d9-4d0b-a313-a2af2dc7a860_images (2).jfif",
+      "PackagePath": "staticwebassets\\images\\e819d1cb-71d9-4d0b-a313-a2af2dc7a860_images (2).jfif"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\images\\f93d252e-c7ec-4534-94e8-2355b26343ed_images.png",
+      "PackagePath": "staticwebassets\\images\\f93d252e-c7ec-4534-94e8-2355b26343ed_images.png"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\images\\fa822b6c-99a1-4ac0-b1b3-cc88d463c676_images.png",
+      "PackagePath": "staticwebassets\\images\\fa822b6c-99a1-4ac0-b1b3-cc88d463c676_images.png"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\images\\i.png",
+      "PackagePath": "staticwebassets\\images\\i.png"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "M:\\tranphucdang_2280600675\\WebsiteBanHang\\WebsiteBanHang\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebsiteBanHang.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebsiteBanHang.props",
+      "PackagePath": "build\\WebsiteBanHang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebsiteBanHang.props",
+      "PackagePath": "buildMultiTargeting\\WebsiteBanHang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebsiteBanHang.props",
+      "PackagePath": "buildTransitive\\WebsiteBanHang.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
